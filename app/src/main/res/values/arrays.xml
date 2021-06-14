@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notesName">
+        <item>note 1</item>
+        <item>note 2</item>
+        <item>note 3</item>
+        <item>note 4</item>
+        <item>note 5</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Описание заметки 1</item>
+        <item>Описание заметки 2</item>
+        <item>Описание заметки 3</item>
+        <item>Описание заметки 4</item>
+        <item>Описание заметки 5</item>
+    </string-array>
+    <string-array name="date">
+        <item>01.01.01</item>
+        <item>02.03.05</item>
+        <item>03.04.12</item>
+        <item>04.01.01</item>
+        <item>05.11.01</item>
+    </string-array>
+    <string-array name="notes">
+        <item>Сама Заметка 1</item>
+        <item>Сама Заметка 2</item>
+        <item>Сама Заметка 3</item>
+        <item>Сама Заметка 4</item>
+        <item>Сама Заметка 5</item>
+    </string-array>
+</resources>
